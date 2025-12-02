@@ -1,6 +1,7 @@
-# show-de-feira
-Base para o desenvolvimento de um Painel de Controle em PHP
+🚜 CampoForte Máquinas
 
-# Sistema Completo
+CampoForte Máquinas é um sistema web desenvolvido para gerenciamento e exibição de máquinas agrícolas.
+O objetivo é simular um ambiente de e-commerce voltado ao campo, com funcionalidades de cadastro, listagem, edição e exclusão de produtos, além de uma área de login e uma aba de pagamento.
 
-[https://github.com/profburnes/show-de-feira-completo](https://github.com/profburnes/show-de-feira-completo)
+🌾 Visão Geral
+O site foi criado exclusivamente para fins didáticos utilziando como parte de entrega da Disciplina Tech Forge 4, aplicando conceitos de desenvolvimento Web Avançado e Banco de dados avançado.
